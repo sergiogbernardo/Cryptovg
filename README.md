@@ -5,10 +5,10 @@ passphrases and TOTP codes, and check whether a password has been breached —
 **entirely in the browser**. There is no backend and nothing sensitive leaves
 your machine.
 
-Part of the [project hub](https://sergiogbernardo.github.io/), alongside
-[Bytevg](https://sergiogbernardo.github.io/Bytevg/),
-[Inspectorvg](https://sergiogbernardo.github.io/Inspectorvg/) and
-[Scanvg](https://sergiogbernardo.github.io/Scanvg/).
+Part of the [project hub](https://sabion.io/), alongside
+[Bytevg](https://sabion.io/Bytevg/),
+[Inspectorvg](https://sabion.io/Inspectorvg/) and
+[Scanvg](https://sabion.io/Scanvg/).
 
 > **Status:** scaffold / work in progress. The shell, design system and Pages
 > deploy are ready; the modules below are being built.
